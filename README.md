@@ -1,1 +1,1 @@
-# fido2test.github.io
+# fido2test
